@@ -34,15 +34,16 @@ The project is organized as follows:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Home page](https://github.com/atharvbadekar/Web_development_Internship_task/blob/8d61d4d65579e5a0d763abb06c592036d4c46a1f/screenshots/Cart.png)
+![Cart page](https://github.com/atharvbadekar/Web_development_Internship_task/blob/8d61d4d65579e5a0d763abb06c592036d4c46a1f/screenshots/Login%20page.png)
+![Product Details](https://github.com/atharvbadekar/Web_development_Internship_task/blob/8d61d4d65579e5a0d763abb06c592036d4c46a1f/screenshots/Product%20details.png)
+![Login page](https://github.com/atharvbadekar/Web_development_Internship_task/blob/8d61d4d65579e5a0d763abb06c592036d4c46a1f/screenshots/home.png)
 
 ## Feedback and Contact
 
-I welcome feedback and suggestions for improving the RedStore E-Commerce Website. Feel free to reach out to me at your.email@example.com for any inquiries or collaboration opportunities.
+I welcome feedback and suggestions for improving the RedStore E-Commerce Website. Feel free to reach out to me at mr.atharvbadekar9422@gmail.com for any inquiries or collaboration opportunities.
 
 Thank you for visiting and exploring the RedStore E-Commerce Website!
 
 ---
-Created by Atharv Yashwant Badekar
+Created by Atharv Badekar
