@@ -17,7 +17,7 @@ RedStore is a fictional e-commerce website that offers a variety of products for
 
 ## Live Deployment
 
-You can experience the RedStore E-Commerce Website by visiting the following link: [RedStore Website]([https://atharvbadekar.github.io/Web_development_Internship_task/](https://atharvbadekar.github.io/Web_development_Internship/))
+You can experience the RedStore E-Commerce Website by visiting the following link: [RedStore Website](https://atharvbadekar.github.io/Web_development_Internship_task/(https://atharvbadekar.github.io/Web_development_Internship/))
 
 ## Project Structure
 
